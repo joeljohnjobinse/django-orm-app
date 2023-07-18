@@ -72,11 +72,11 @@ admin.site.register(Student, StudentAdmin)
 
 ### Student List:
 
-![StudentList](djangoormappjoel.jpg)
+![StudentList](djangoormappjoel.JPG)
 
 ### Error:
 
-![Error](error.jpg)
+![Error](error.JPG)
 
 ## RESULT:
 The program is executed successfully.
